@@ -15,3 +15,5 @@ Line3D++ is the improved version of https://github.com/manhofer/Line3D
 https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_fraundorfer/personal_pages/markus_rumpler/bmvc_2012_hoppe.pdf
 
 https://github.com/shidahe/semidense-lines (GPLv3)
+
+http://imagine.enpc.fr/~marletr/publi/3DV-2019-Langlois-et-al_supp.pdf
