@@ -8,5 +8,5 @@ Ceres-Solver=={1.8.0, 1.12.0}
 RapidJSON
 OpenMP
     
-    
+# ToDo: test vcpkg install
     
