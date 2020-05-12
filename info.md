@@ -8,6 +8,10 @@ http://videolectures.net/site/normal_dl/tag=841050/bmvc2013_hofer_geometric_cons
 
 https://www.groundai.com/project/surface-reconstruction-from-3d-line-segments/1
 
+Line3D++ is the improved version of https://github.com/manhofer/Line3D
+
 # Related
 
 https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_fraundorfer/personal_pages/markus_rumpler/bmvc_2012_hoppe.pdf
+
+https://github.com/shidahe/semidense-lines (GPLv3)
